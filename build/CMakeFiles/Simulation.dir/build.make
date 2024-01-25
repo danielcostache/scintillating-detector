@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daniel/Code/geant4/sim
+CMAKE_SOURCE_DIR = /home/daniel/Code/scintillating-detector-main
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daniel/Code/geant4/sim/build
+CMAKE_BINARY_DIR = /home/daniel/Code/scintillating-detector-main/build
 
 # Utility rule file for Simulation.
 
@@ -81,6 +81,6 @@ CMakeFiles/Simulation.dir/clean:
 .PHONY : CMakeFiles/Simulation.dir/clean
 
 CMakeFiles/Simulation.dir/depend:
-	cd /home/daniel/Code/geant4/sim/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daniel/Code/geant4/sim /home/daniel/Code/geant4/sim /home/daniel/Code/geant4/sim/build /home/daniel/Code/geant4/sim/build /home/daniel/Code/geant4/sim/build/CMakeFiles/Simulation.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/daniel/Code/scintillating-detector-main/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/daniel/Code/scintillating-detector-main /home/daniel/Code/scintillating-detector-main /home/daniel/Code/scintillating-detector-main/build /home/daniel/Code/scintillating-detector-main/build /home/daniel/Code/scintillating-detector-main/build/CMakeFiles/Simulation.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Simulation.dir/depend
 

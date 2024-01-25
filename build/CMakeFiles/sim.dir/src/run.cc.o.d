@@ -1,5 +1,7 @@
-CMakeFiles/sim.dir/src/run.cc.o: /home/daniel/Code/geant4/sim/src/run.cc \
- /usr/include/stdc-predef.h /home/daniel/Code/geant4/sim/include/run.hh \
+CMakeFiles/sim.dir/src/run.cc.o: \
+ /home/daniel/Code/scintillating-detector-main/src/run.cc \
+ /usr/include/stdc-predef.h \
+ /home/daniel/Code/scintillating-detector-main/include/run.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4UserRunAction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4Types.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4GlobalConfig.hh \

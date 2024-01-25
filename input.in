@@ -1,0 +1,5 @@
+/radsrc/input CO60 100.0
+/radsrc/input AGE 2
+/radsrc/update
+
+/run/beamOn 1000

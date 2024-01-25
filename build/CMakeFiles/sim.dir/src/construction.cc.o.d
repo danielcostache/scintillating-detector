@@ -1,7 +1,7 @@
 CMakeFiles/sim.dir/src/construction.cc.o: \
- /home/daniel/Code/geant4/sim/src/construction.cc \
+ /home/daniel/Code/scintillating-detector-main/src/construction.cc \
  /usr/include/stdc-predef.h \
- /home/daniel/Code/geant4/sim/include/construction.hh \
+ /home/daniel/Code/scintillating-detector-main/include/construction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/globals.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ios.hh \
@@ -347,7 +347,7 @@ CMakeFiles/sim.dir/src/construction.cc.o: \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4PhysicalConstants.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4RotationMatrix.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4Material.hh \
- /home/daniel/Code/geant4/sim/include/detector.hh \
+ /home/daniel/Code/scintillating-detector-main/include/detector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VSensitiveDetector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4CollectionNameVector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4HCofThisEvent.hh \

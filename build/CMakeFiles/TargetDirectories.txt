@@ -1,4 +1,4 @@
-/home/daniel/Code/geant4/sim/build/CMakeFiles/sim.dir
-/home/daniel/Code/geant4/sim/build/CMakeFiles/Simulation.dir
-/home/daniel/Code/geant4/sim/build/CMakeFiles/edit_cache.dir
-/home/daniel/Code/geant4/sim/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/Code/scintillating-detector-main/build/CMakeFiles/sim.dir
+/home/daniel/Code/scintillating-detector-main/build/CMakeFiles/Simulation.dir
+/home/daniel/Code/scintillating-detector-main/build/CMakeFiles/edit_cache.dir
+/home/daniel/Code/scintillating-detector-main/build/CMakeFiles/rebuild_cache.dir

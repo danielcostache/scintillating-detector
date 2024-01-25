@@ -1,4 +1,5 @@
-CMakeFiles/sim.dir/sim.cc.o: /home/daniel/Code/geant4/sim/sim.cc \
+CMakeFiles/sim.dir/sim.cc.o: \
+ /home/daniel/Code/scintillating-detector-main/sim.cc \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -636,7 +637,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/daniel/Code/geant4/sim/sim.cc \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4UIbatch.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VisManager.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4UImanager.hh \
- /home/daniel/Code/geant4/sim/include/construction.hh \
+ /home/daniel/Code/scintillating-detector-main/include/construction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VPhysicalVolume.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4LogicalVolume.hh \
@@ -653,7 +654,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/daniel/Code/geant4/sim/sim.cc \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4PhysicalConstants.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4RotationMatrix.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4Material.hh \
- /home/daniel/Code/geant4/sim/include/detector.hh \
+ /home/daniel/Code/scintillating-detector-main/include/detector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VSensitiveDetector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4CollectionNameVector.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VReadOutGeometry.hh \
@@ -719,7 +720,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/daniel/Code/geant4/sim/sim.cc \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4GenericAnalysisManager.icc \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4GenericFileManager.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4GenericFileManager.icc \
- /home/daniel/Code/geant4/sim/include/physics.hh \
+ /home/daniel/Code/scintillating-detector-main/include/physics.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VModularPhysicsList.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VPhysicsConstructor.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4PhysicsListHelper.hh \
@@ -793,12 +794,12 @@ CMakeFiles/sim.dir/sim.cc.o: /home/daniel/Code/geant4/sim/sim.cc \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleChangeForDecay.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4DecayProcessType.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4RadioactiveDecayPhysics.hh \
- /home/daniel/Code/geant4/sim/include/action.hh \
+ /home/daniel/Code/scintillating-detector-main/include/action.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserActionInitialization.hh \
- /home/daniel/Code/geant4/sim/include/generator.hh \
+ /home/daniel/Code/scintillating-detector-main/include/generator.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleGun.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VPrimaryGenerator.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleTable.hh \
- /home/daniel/Code/geant4/sim/include/run.hh \
+ /home/daniel/Code/scintillating-detector-main/include/run.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4UserRunAction.hh

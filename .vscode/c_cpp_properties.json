@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4",
+                "/home/daniel/Software/RadSrc/radsrc_v1.6/lib",
+                "/home/daniel/Software/RadSrc/radsrc_v1.6/src/libradsrc",
+                "${workspaceFolder}/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

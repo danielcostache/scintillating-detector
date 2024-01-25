@@ -1,6 +1,7 @@
 CMakeFiles/sim.dir/src/physics.cc.o: \
- /home/daniel/Code/geant4/sim/src/physics.cc /usr/include/stdc-predef.h \
- /home/daniel/Code/geant4/sim/include/physics.hh \
+ /home/daniel/Code/scintillating-detector-main/src/physics.cc \
+ /usr/include/stdc-predef.h \
+ /home/daniel/Code/scintillating-detector-main/include/physics.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VModularPhysicsList.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VPhysicsConstructor.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleTable.hh \

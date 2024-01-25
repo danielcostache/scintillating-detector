@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/daniel/Code/geant4/sim
+CMAKE_SOURCE_DIR = /home/daniel/Code/scintillating-detector-main
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/daniel/Code/geant4/sim/build
+CMAKE_BINARY_DIR = /home/daniel/Code/scintillating-detector-main/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/Code/geant4/sim/build/CMakeFiles /home/daniel/Code/geant4/sim/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/Code/scintillating-detector-main/build/CMakeFiles /home/daniel/Code/scintillating-detector-main/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/Code/geant4/sim/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/daniel/Code/scintillating-detector-main/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -262,6 +262,30 @@ src/generator.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/generator.cc.s
 .PHONY : src/generator.cc.s
 
+src/generator_copy.o: src/generator_copy.cc.o
+.PHONY : src/generator_copy.o
+
+# target to build an object file
+src/generator_copy.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/generator_copy.cc.o
+.PHONY : src/generator_copy.cc.o
+
+src/generator_copy.i: src/generator_copy.cc.i
+.PHONY : src/generator_copy.i
+
+# target to preprocess a source file
+src/generator_copy.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/generator_copy.cc.i
+.PHONY : src/generator_copy.cc.i
+
+src/generator_copy.s: src/generator_copy.cc.s
+.PHONY : src/generator_copy.s
+
+# target to generate assembly for a file
+src/generator_copy.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/src/generator_copy.cc.s
+.PHONY : src/generator_copy.cc.s
+
 src/physics.o: src/physics.cc.o
 .PHONY : src/physics.o
 
@@ -335,6 +359,9 @@ help:
 	@echo "... src/generator.o"
 	@echo "... src/generator.i"
 	@echo "... src/generator.s"
+	@echo "... src/generator_copy.o"
+	@echo "... src/generator_copy.i"
+	@echo "... src/generator_copy.s"
 	@echo "... src/physics.o"
 	@echo "... src/physics.i"
 	@echo "... src/physics.s"

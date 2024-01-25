@@ -1,6 +1,7 @@
 CMakeFiles/sim.dir/src/generator.cc.o: \
- /home/daniel/Code/geant4/sim/src/generator.cc /usr/include/stdc-predef.h \
- /home/daniel/Code/geant4/sim/include/generator.hh \
+ /home/daniel/Code/scintillating-detector-main/src/generator.cc \
+ /usr/include/stdc-predef.h \
+ /home/daniel/Code/scintillating-detector-main/include/generator.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleGun.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/globals.hh \

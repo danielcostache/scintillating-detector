@@ -1,8 +1,9 @@
 CMakeFiles/sim.dir/src/action.cc.o: \
- /home/daniel/Code/geant4/sim/src/action.cc /usr/include/stdc-predef.h \
- /home/daniel/Code/geant4/sim/include/action.hh \
+ /home/daniel/Code/scintillating-detector-main/src/action.cc \
+ /usr/include/stdc-predef.h \
+ /home/daniel/Code/scintillating-detector-main/include/action.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserActionInitialization.hh \
- /home/daniel/Code/geant4/sim/include/generator.hh \
+ /home/daniel/Code/scintillating-detector-main/include/generator.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleGun.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/globals.hh \
@@ -271,7 +272,7 @@ CMakeFiles/sim.dir/src/action.cc.o: \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleTable.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleTableIterator.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4ParticleTable.icc \
- /home/daniel/Code/geant4/sim/include/run.hh \
+ /home/daniel/Code/scintillating-detector-main/include/run.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4UserRunAction.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4AnalysisManager.hh \
  /home/daniel/Software/geant4/geant4-v11.2.0-install/include/Geant4/G4GenericAnalysisManager.hh \
